@@ -9,13 +9,13 @@ import java.util.Scanner;
  *
  * @author mehta
  */
-public class PooPoo {
+public class ReverseWord {
     /**
      * A class to take input from user
      * and printing reverse of the word 
      * using an array
      * @param args the command line arguments
-     */
+     */ //PooPoo
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         
