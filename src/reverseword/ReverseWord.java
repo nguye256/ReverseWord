@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package reverseword;
+package reverseword; 
 import java.util.Scanner;
 /**
  *
  * @author mehta
  */
-public class ReverseWord {
+public class PooPoo {
     /**
      * A class to take input from user
      * and printing reverse of the word 
